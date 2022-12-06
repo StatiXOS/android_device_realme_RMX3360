@@ -9,6 +9,9 @@ include device/realme/sm8350-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/realme/RMX3360
 
+# Board
+TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
+
 # Display
 TARGET_SCREEN_DENSITY := 420
 
