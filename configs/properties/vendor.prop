@@ -4,6 +4,7 @@ bluetooth.device.default_name=Realme GT Master Edition
 # Graphics
 ro.surface_flinger.set_idle_timer_ms=4000
 ro.surface_flinger.set_touch_timer_ms=4000
+ro.surface_flinger.set_display_power_timer_ms=1000
 
 # USB
 vendor.usb.product_string=Realme GT Master Edition
