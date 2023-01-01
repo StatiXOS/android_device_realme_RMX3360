@@ -13,6 +13,9 @@ DEVICE_PATH := device/realme/RMX3360
 SOONG_CONFIG_qtidisplay_udfps := true
 TARGET_SCREEN_DENSITY := 450
 
+# OTA
+TARGET_OTA_ASSERT_DEVICE := RMX3360,RMX3363
+
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/configs/properties/vendor.prop
 
