@@ -302,7 +302,6 @@ odm/lib64/libstfaceunlockocl.so
 odm/lib64/libtriplecam_image_optical_zoom.so
 odm/lib64/libtriplecam_optical_zoom_control.so
 odm/lib64/libtriplecam_video_optical_zoom.so
-odm/lib64/libui.so
 odm/lib64/libwatermark_photo.so
 odm/lib64/vendor.oplus.hardware.orms@1.0.so
 vendor/etc/camera/M_Attribute_AG_BMW_1.1.0.model.hardcode
