@@ -10,7 +10,6 @@ include device/realme/sm8350-common/BoardConfigCommon.mk
 DEVICE_PATH := device/realme/RMX3360
 
 # Display
-SOONG_CONFIG_qtidisplay_udfps := true
 TARGET_SCREEN_DENSITY := 450
 
 # OTA
