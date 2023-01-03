@@ -10,7 +10,7 @@ include device/realme/sm8350-common/BoardConfigCommon.mk
 DEVICE_PATH := device/realme/RMX3360
 
 # Display
-TARGET_SCREEN_DENSITY := 450
+TARGET_SCREEN_DENSITY := 420
 
 # OTA
 TARGET_OTA_ASSERT_DEVICE := RMX3360,RMX3363
